@@ -1,5 +1,6 @@
 index.html
 tmp/
+logs.txt
 
 ### react ###
 .DS_*
