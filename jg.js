@@ -1,9 +1,8 @@
 var a = 12;
-
 var b = 9;
 
 const neymar = () => {
-    a - b
+    return a - b;
 };
 
-console.log(neymar);
+console.log(neymar()); // Agora imprimirá o resultado corretamente
